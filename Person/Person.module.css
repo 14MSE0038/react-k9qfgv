@@ -1,0 +1,14 @@
+.Output{
+  margin:10px;
+  padding: 5px;
+  width:70%;
+  border:2px solid blue;
+  box-shadow: 0px 2px 3px 0px;
+  /* font-display: bold  */
+}
+
+@media(min-width:500px){
+  .Output{
+  width: 450px;
+  }
+}
